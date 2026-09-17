@@ -375,6 +375,7 @@ gnome-books.png <- xepub.png
 gnome-break-timer.png <- com.github.vikdevelop.timer.png
 gnome-clocks.png <- gworldclock.png
 gnome-clocks.png <- org.gnome.clocks.png
+gnome-clocks.png <- clockenstein-clocks.png
 gnome-documents.png <- org.gnome.Documents.png
 gnome-nettool.png <- nmap_icon.png
 gnome-nibbles.png <- org.gnome.Nibbles.png
