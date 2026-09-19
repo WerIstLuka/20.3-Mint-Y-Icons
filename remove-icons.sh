@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=./usr/share/icons/20.3-Mint-Y-Luka
+dir=./usr/share/icons/20.3-Mint-Y
 
 help(){
 	echo remove an icon from a specified category in ./usr
